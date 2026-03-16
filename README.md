@@ -8,9 +8,9 @@ A SwiftUI demo that replicates Instagram's image gallery and post detail transit
   <img src="demo.PNG" width="300" alt="Gallery screenshot" />
 </p>
 
-<p align="center">
-  <video src="demo.mov" width="300" />
-</p>
+<div align="center">
+    <video src="https://github.com/user-attachments/assets/999600b1-5dba-403d-b238-4e37d166e2b6" controls loop muted></video>
+</div>
 
 ## Features
 
